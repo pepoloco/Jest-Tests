@@ -1,3 +1,4 @@
+master
 async function asyncFunc() {
     const url = "";
     try {
@@ -13,4 +14,4 @@ async function asyncFunc() {
     }
 }
 
-module.exports = asyncFunc;
+module.exports = asyncFunc

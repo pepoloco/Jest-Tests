@@ -1,3 +1,4 @@
+master
 const asyncFunc = require('./asyncTest');
 
 describe('asyncFunc tests', () => {
